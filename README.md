@@ -2,7 +2,7 @@
 <img alt="Logo of the project" src="https://raw.githubusercontent.com/jehna/webcam-song/master/logo.png" width="200">
 </center>
 
-# Webcam Song
+# Webcam → Song
 > Use your mood to control the music
 
 This project uses your webcam to take an image, then asks AI what the perfect
