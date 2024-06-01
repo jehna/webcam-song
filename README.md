@@ -1,4 +1,6 @@
-![Logo of the project](https://raw.githubusercontent.com/jehna/webcam-song/master/logo.png)
+<center>
+<img alt="Logo of the project" src="https://raw.githubusercontent.com/jehna/webcam-song/master/logo.png" width="200">
+</center>
 
 # Webcam Song
 > Use your mood to control the music
